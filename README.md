@@ -1,0 +1,1 @@
+# Este es un repositorio donde se pretende predecir la diabetes en pacientes con otras patologías. 
